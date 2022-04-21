@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaryShodiya
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💻 Software Engineer
 - 💞️ I’m looking to collaborate with great minds, work on projects together and basically learn from them.
 - 📫 How to reach me @MaryShodiya on Discord
 
