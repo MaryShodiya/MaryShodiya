@@ -13,4 +13,6 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=MaryShodiya&style=flat-square&color=blue" alt=""/>
 </div>
-https://media.giphy.com/media/kKIe6QfHgeL8zZVH6V/giphy.gif
+<div align="center">
+  <img src="https://media.giphy.com/media/kKIe6QfHgeL8zZVH6V/giphy.gif" width="600" height="300"/>
+</div>
