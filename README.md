@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://maryshodiya.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.twitter.com/addvokeight">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
