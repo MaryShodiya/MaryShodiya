@@ -52,6 +52,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryShodiya&layout=compact&theme=vision-friendly-dark)](https://github.com/MaryShodiya/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryShodiya&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryShodiya&show_icons=true&theme=dracula)
 
 
