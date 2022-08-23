@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=MaryShodiya&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/kKIe6QfHgeL8zZVH6V/giphy.gif" width="100" height="300"/>
+  <img src="https://media.giphy.com/media/kKIe6QfHgeL8zZVH6V/giphy.gif" width="200" height="200"/>
 </div>
 ---
 
